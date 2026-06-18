@@ -1,0 +1,29 @@
+# Environment
+venv/
+env/
+ENV/
+.venv
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+*.db
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
