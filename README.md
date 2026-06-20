@@ -229,19 +229,14 @@
 5. **Monitoramento contínuo** 
 
 ### Cuidados
-Se deve analisar por completo cada caso e sua influência. Pode existir outros fatores que podem cuminar notas baixas ou altas
+Se deve analisar por completo cada caso e sua influência. Pode existir outros fatores que podem cuminar notas baixas ou altas.
 
 ---
 
 ## Conclusão Simples sobre a Base de Dados
 
-A base de dados **StudentsPerformance** é um conjunto bem estruturado com 1.000 registros que permite identificar padrões claros de desempenho acadêmico. Os dados evidenciam que **o desempenho escolar não é determinado apenas por aptidão, mas também por fatores socioeconômicos e oportunidades de preparação**.
+Os dados evidenciam que o desempenho escolar não é determinado apenas por aptidão, mas também por fatores socioeconômicos e oportunidades de preparação.
 
-A análise demonstra que:
-- **Investimento em preparação funciona:** Estudantes preparados para testes melhoram significativamente
-- **Equidade é essencial:** Fatores como renda e educação parental influenciam resultados
-- **Os dados são confiáveis:** Sem erros de qualidade, permitindo decisões seguras
-
-Portanto, esta base é um **instrumento poderoso para apoiar decisões educacionais baseadas em evidências**, capaz de guiar gestores na alocação de recursos e desenho de políticas que promovam equidade e melhorem os resultados de aprendizagem.
+Portanto, esta base é ótima para apoiar decisões educacionais baseadas em evidências, capaz de guiar gestores na alocação de recursos e desenho de políticas que promovam equidade e melhorem os resultados de aprendizagem.
 
 
